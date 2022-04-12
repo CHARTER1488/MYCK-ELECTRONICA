@@ -1,0 +1,20 @@
+body{
+    background-color: #becdde;
+}
+
+
+
+/*========TITULO========*/
+h1, h3{
+    font-family: cursive;
+    font-weight: bold;
+    color: #185905;
+}
+
+
+/*========SLIDER-FOTOS========*/
+
+#imagenes {
+ text-align: center;
+
+}
