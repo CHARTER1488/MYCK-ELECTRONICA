@@ -18,3 +18,13 @@ h1, h3{
  text-align: center;
 
 }
+
+/*========FOTOS-Y-TEXTO========*/
+
+#fotos{
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
